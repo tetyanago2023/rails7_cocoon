@@ -68,3 +68,7 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem 'cocoon', '~> 1.2'
+gem 'foreman', github: 'ddollar/foreman'
+gem 'simple_form', '~> 5.2'
